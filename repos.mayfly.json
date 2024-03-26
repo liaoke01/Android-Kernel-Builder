@@ -18,6 +18,7 @@
     ],
     "params": {
       "ARCH": "arm64",
+      "SUBARCH": "arm64",
       "CC": "clang13/clang/host/linux-x86/clang-r428724/bin/clang",
       "externalCommand": {
         "CROSS_COMPILE": "clang13/linaro-gcc-4.9/aarch64-linux-gnu/bin/aarch64-linux-gnu-",
