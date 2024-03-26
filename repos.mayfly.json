@@ -5,7 +5,7 @@
       "repo": "https://github.com/xiaomi-mayfly-devs/android_kernel_xiaomi_sm8450",
       "branch": "lineage-21",
       "device": "mayfly",
-      "defconfig": "mayfly_GKI.config"
+      "defconfig": "gki_defconfig"
     },
     "withKernelSU": false,
     "toolchains": [
