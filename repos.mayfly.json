@@ -1,13 +1,13 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi_Kernel_OpenSource-sdm845",
-      "repo": "https://github.com/Akitlove/Xiaomi_Kernel_OpenSource-sdm845",
-      "branch": "88-zstd",
-      "device": "dipper",
+      "name": "Xiaomi_mayfly-kernel",
+      "repo": "https://github.com/xiaomi-mayfly-devs/android_kernel_xiaomi_sm8450",
+      "branch": "lineage-21",
+      "device": "mayfly",
       "defconfig": "dipper_user_defconfig"
     },
-    "withKernelSU": true,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://github.com/Akitlove/android-kernel-tools",
